@@ -27,51 +27,50 @@ We have also explored innovative solutions to enhance plant performance, such as
 
 ## Separation
 
-Multi-stage separation units to purify ammonia product.
+- Multi-stage separation units to purify ammonia product.
 
-Final product purity achieved: NH₃ ≈ 99%
+- Final product purity achieved: NH₃ ≈ 99%
 
-Innovations Considered
+### Innovations Considered
 
-Integration of carbon capture units (CCU).
+- Integration of carbon capture units (CCU).
 
-Heat exchanger network optimization.
+- Heat exchanger network optimization.
 
-Use of advanced simulation tools to optimize process flow.
+- Use of advanced simulation tools to optimize process flow.
 
 ## Key Objectives
-Maximize ammonia yield.
+- Maximize ammonia yield.
 
-Minimize energy consumption.
+- Minimize energy consumption.
 
-Improve sustainability by reducing CO₂ emissions.
+- Improve sustainability by reducing CO₂ emissions.
 
-Implement innovative process improvements.
+- Implement innovative process improvements.
 
 ## Technologies Used
-Aspen HYSYS / Aspen Plus (for simulation)
+- Aspen HYSYS / Aspen Plus (for simulation)
 
-Energy and mass balance calculations
+- Energy and mass balance calculations
 
-Process design best practices
+- Process design best practices
 
-Optional: Python/Excel for data analysis and cost estimation
+- Optional: Python/Excel for data analysis and cost estimation
 
 ## Recommendations for Process Improvement
-Add Amine-based Carbon Capture Units to absorb CO₂.
+- Add Amine-based Carbon Capture Units to absorb CO₂.
 
-Install Heat Integration Network to recycle heat efficiently.
+- Install Heat Integration Network to recycle heat efficiently.
 
-Use Membrane Separation Units for gas purification.
+- Use Membrane Separation Units for gas purification.
 
-Implement Automation & AI-based Process Control for real-time optimization.
+- Implement Automation & AI-based Process Control for real-time optimization.
 
 ## Economic Analysis
-Feedstock cost estimation.
+- Feedstock cost estimation.
 
-Energy consumption and utility costing.
+- Energy consumption and utility costing.
 
-Capital investment vs. operational cost savings through innovations.
+- Capital investment vs. operational cost savings through innovations.
 
-![Green Ammonia Production Flowchart](C:\Users\hp\Pictures\Screenshots/flowdiagram.png)
 
