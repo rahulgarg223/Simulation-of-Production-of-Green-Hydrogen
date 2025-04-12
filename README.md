@@ -9,21 +9,21 @@ We have also explored innovative solutions to enhance plant performance, such as
 ## Process Flow Summary
 ### Feedstock Preparation
 
-KOH and H₂O mixed in controlled ratios.
+- KOH and H₂O mixed in controlled ratios.
 
-Pressurization and preheating before reaction steps.
+- Pressurization and preheating before reaction steps.
 
-Primary Reforming & Compression
+### Primary Reforming & Compression
 
-Multi-stage compression of nitrogen and hydrogen gases.
+- Multi-stage compression of nitrogen and hydrogen gases.
 
-Use of heat exchangers for energy optimization.
+- Use of heat exchangers for energy optimization.
 
-Synthesis Loop
+### Synthesis Loop
 
-Hydrogen and nitrogen combined in stoichiometric ratios.
+- Hydrogen and nitrogen combined in stoichiometric ratios.
 
-High-pressure reactors employed for ammonia synthesis.
+- High-pressure reactors employed for ammonia synthesis.
 
 ## Separation
 
