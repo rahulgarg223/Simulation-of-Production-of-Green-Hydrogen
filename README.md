@@ -1,7 +1,7 @@
 # Simulation-of-Production-of-Green-Hydrogen
 Project which involves around simulating the process of production of green hydrogen.
 
-#Overview
+# Overview
 This project presents a detailed process simulation of an Ammonia Production Plant, focusing on process flow, efficiency, and potential improvements in terms of energy consumption, carbon capture, and sustainability. The simulation covers all essential stages from raw material feedstock handling to ammonia synthesis and separation.
 
 We have also explored innovative solutions to enhance plant performance, such as heat integration, advanced separation technologies, and carbon capture units to reduce environmental impact.
